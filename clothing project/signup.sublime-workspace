@@ -1,0 +1,441 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"print"
+			],
+			[
+				"ce",
+				"cellpadding	Attr"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"item",
+				"itemid"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"sta",
+				"stat"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"s",
+				"submitform"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"re",
+				"required	Attr"
+			],
+			[
+				"ph",
+				"phone"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"N",
+				"New1"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"Crim",
+				"criminals"
+			],
+			[
+				"pr",
+				"pr"
+			],
+			[
+				"g",
+				"game"
+			],
+			[
+				"lin",
+				"lines"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"cl",
+				"cla"
+			],
+			[
+				"v",
+				"validShuffle"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"c",
+				"check"
+			],
+			[
+				"f",
+				"filt"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"mysql_",
+				"mysql_connect"
+			],
+			[
+				"mysqli_",
+				"mysqli_connect"
+			],
+			[
+				"root",
+				"gupnp_root_device_new"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sai/Desktop/learn/learn.py",
+		"/var/www/html/clothingCloset (2)/logout.php",
+		"/var/www/html/clothingCloset (2)/learn.php",
+		"/var/www/html/clothingCloset (2)/navbar.php",
+		"/var/www/html/clothingCloset (2)/login.php",
+		"/var/www/html/clothingCloset (2)/session.php",
+		"/var/www/html/clothingCloset (2)/cart.php",
+		"/var/www/html/clothingCloset (2)/util/connect.php",
+		"/var/www/html/clothingCloset (2)/signup.php",
+		"/var/www/html/clothingCloset (2)/register.php",
+		"/var/www/html/clothingCloset (2)/home.php",
+		"/var/www/html/clothingCloset (2)/index.php",
+		"/var/www/html/clothingCloset (2)/1.php",
+		"/home/sai/Desktop/1.php",
+		"/home/sai/Desktop/Untitled Folder/Final project/Final project/nSORT.txt",
+		"/home/sai/Desktop/Untitled Folder/Final project/Final project/nlgnSORT.txt",
+		"/home/sai/Desktop/Untitled Folder/Final project/Final project/n2SORT.txt",
+		"/home/sai/Desktop/Untitled Folder/Final project/Final project/LCS_out.txt",
+		"/home/sai/Desktop/Untitled Folder/Final project/Final project/LCS_in.txt",
+		"/home/sai/Desktop/Untitled Folder/Final project/Final project/Countingsort_input.txt",
+		"/home/sai/Desktop/Untitled Folder/Final project/Final project/Mergesort_input.txt",
+		"/home/sai/Desktop/Untitled Folder/Final project/Final project/Insertion_sort_input.txt",
+		"/home/sai/Desktop/Untitled Folder/Final project/Final project/Countingsort_output.txt",
+		"/home/sai/Desktop/Untitled Folder/Final project/Final project/Mergesort_output.txt",
+		"/home/sai/Desktop/Untitled Folder/Final project/Final project/Insertion_sort_output.txt",
+		"/home/sai/Desktop/Untitled Folder/Final project/Final project/random inputs/ran100000.txt",
+		"/home/sai/Desktop/Untitled Folder/program/program/nSORT.txt",
+		"/home/sai/Desktop/Untitled Folder/program/program/nlgnSORT.txt",
+		"/home/sai/Desktop/Untitled Folder/program/program/n2SORT.txt",
+		"/home/sai/Desktop/Untitled Folder/program/program/LCS_out.txt",
+		"/home/sai/Desktop/Untitled Folder/program/program/LCS_in.txt",
+		"/home/sai/Desktop/Untitled Folder/program/program/Mergesort_input.txt",
+		"/home/sai/Desktop/Untitled Folder/program/program/Insertion_sort_input.txt",
+		"/home/sai/Desktop/Untitled Folder/program/program/Countingsort_input.txt",
+		"/home/sai/Desktop/Untitled Folder/program/program/random inputs/ran50000.txt",
+		"/home/sai/Desktop/Untitled Folder/program/program/Countingsort_output.txt",
+		"/home/sai/Desktop/Untitled Folder/program/program/Mergesort_output.txt",
+		"/home/sai/Desktop/Untitled Folder/program/program/Insertion_sort_output.txt",
+		"/home/sai/Desktop/Untitled Folder/program/program/sorted inputs/sor50000.txt",
+		"/var/www/html/clothingCloset (2)/approve.php",
+		"/var/www/html/clothingCloset (2)/forgotpassword.php",
+		"/var/www/html/clothingCloset (2)/profile.php",
+		"/var/www/html/clothingCloset (2)/js/cart.js",
+		"/var/www/html/clothingCloset (2)/js/admin.js",
+		"/var/www/html/clothingCloset (2)/forgot.php",
+		"/var/www/html/clothingCloset (2)/css/admin.css",
+		"/var/www/html/clothingCloset (2)/addToCart.php",
+		"/var/www/html/clothingCloset (2)/process/process_donation.php",
+		"/var/www/html/clothingCloset (2)/display.php",
+		"/var/www/html/clothingCloset (2)/resources/dbconfiguration.ini",
+		"/var/www/html/clothingCloset (2)/donate_item.php",
+		"/var/www/html/clothingCloset (2)/base template",
+		"/var/www/html/clothingCloset (2)/index.css",
+		"/home/sai/Downloads/Untitled Folder/CountingSort/src/CReadWrite.java",
+		"/home/sai/Downloads/Untitled Folder/CountingSort/src/CountingSort.java",
+		"/home/sai/Downloads/Untitled Folder/CountingSort/src/kvk.txt",
+		"/var/www/html/clothingCloset (2)/scripts/initial_script.sql",
+		"/var/www/html/clothingCloset (2)/admin.php",
+		"/var/www/html/clothingCloset (2)/donate.css",
+		"/var/www/html/clothingCloset (2)/style.css",
+		"/var/www/html/clothingCloset (2)/css/style.css",
+		"/var/www/html/clothingCloset (2)/header.php",
+		"/var/www/html/clothingCloset/css/style.css",
+		"/var/www/html/clothingCloset/js/index.js",
+		"/var/www/html/clothingCloset/forgotpassword.php",
+		"/var/www/html/clothingCloset/index.php",
+		"/home/sai/Desktop/spl project/ratings.csv",
+		"/var/www/html/clothingCloset/forgotpassword.html",
+		"/var/www/html/clothingCloset/signup.php",
+		"/var/www/html/clothingCloset/fp.html",
+		"/var/www/html/clothingCloset/login.php",
+		"/home/sai/Documents/tictactoe-android/src/brown/android/tictac/GameActivity.java",
+		"/var/www/html/style.css",
+		"/var/www/html/clothingCloset/register.php",
+		"/home/sai/Desktop/a.py",
+		"/var/www/html/signup.js",
+		"/var/www/html/index.html",
+		"/var/www/html/signup.html",
+		"/var/www/html/sign.js",
+		"/var/www/html/js/signup.js",
+		"/var/www/html/js/index.js",
+		"/var/www/html/login.php",
+		"/var/www/html/signu.html",
+		"/var/www/html/signu.php",
+		"/home/sai/Documents/web/signup.html",
+		"/home/sai/Documents/web/signup.php",
+		"/home/sai/Desktop/test.py",
+		"/home/sai/Desktop/db project/Sample Project/Grp4Project/Code/InternshipTrackingSystem/login.php",
+		"/var/www/html/login.html",
+		"/home/sai/Desktop/db project/Sample Project/Grp4Project/Code/InternshipTrackingSystem/login.html",
+		"/home/sai/Downloads/login1.htm",
+		"/home/sai/Desktop/db project/sign-up-login-form/css/style.css",
+		"/home/sai/Desktop/db project/sign-up-login-form/index.html",
+		"/home/sai/Desktop/db project/flat-ui-login/index.html",
+		"/home/sai/Desktop/learn/final.R",
+		"/home/sai/Desktop/learn/problem1.R",
+		"/home/sai/Desktop/learn/gui.R",
+		"/home/sai/Desktop/xyz.py",
+		"/home/sai/Desktop/learn/bal.R",
+		"/home/sai/Desktop/learn/problem4.R",
+		"/home/sai/Desktop/learn/problem3.R",
+		"/home/sai/Desktop/learn/problem5.R",
+		"/home/sai/Downloads/final.R",
+		"/home/sai/Downloads/prob5.R",
+		"/home/sai/Desktop/learn/exp.R",
+		"/home/sai/Downloads/Untitled Folder/shiny-quickstart-1/downloads/code/app.R",
+		"/home/sai/Desktop/exp.R",
+		"/home/sai/Desktop/UDPPingerServer.py",
+		"/home/sai/Desktop/servercode.py",
+		"/home/sai/Downloads/form.php",
+		"/var/www/index.php",
+		"/var/www/html/index.php",
+		"/var/www/html/retry.htm",
+		"/home/sai/Desktop/cli.py",
+		"/home/sai/Desktop/assign.py",
+		"/home/sai/Desktop/client.py",
+		"/home/sai/Desktop/programs.hs",
+		"/home/sai/Desktop/assignment/programs.hs",
+		"/home/sai/Desktop/assignment/coPrime.hs",
+		"/home/sai/Desktop/assignment/validShuffle.hs",
+		"/home/sai/Desktop/assignment/histogram.hs",
+		"/home/sai/Desktop/assignment/allOcrDelete.hs",
+		"/home/sai/Desktop/assignment/grade.hs",
+		"/var/www/html/signup.php",
+		"/home/sai/Downloads/Exam Application form Dec'16 Jan17 - Student.accdb",
+		"/home/sai/Desktop/learn/coPrime.hs",
+		"/home/sai/Desktop/ assignment/grade.hs",
+		"/home/sai/Desktop/learn/learn.hs"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"php",
+			"99999",
+			"html",
+			"pate",
+			"bs"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "signup.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
