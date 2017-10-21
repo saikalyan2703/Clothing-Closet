@@ -1,0 +1,130 @@
+.form-promote{
+  margin-bottom: 20px;
+}
+.productCard {
+    background: #fefefe;
+}
+.btn-approve{
+  width: 120px;
+  border-radius: 7px;
+  border-color: black;
+  color: black;
+  padding: 4px 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  background: #eee;
+  border: 0;
+}
+.btn-approve:hover{
+  background: #14c214;
+}
+.btn-reject{
+  width: 120px;
+  border-radius: 7px;
+  border-color: black;
+  color: black;
+  padding: 4px 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  background: #eee;
+  border: 0;
+}
+.btn-reject:hover{
+  background: #c60404;
+}
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+.ditch{
+  font-family: 'Oswald', sans-serif;
+}
+.btn-edit{
+  background-color: #ffffff;
+  border-radius: 7px;
+  border-color: #000000;
+  color: black;
+  padding: 1px 1px;
+  text-decoration: none;
+  display: inline;
+}
+
+.btn-done{
+  background-color: #ffffff;
+  border-radius: 7px;
+  border-color: #000000;
+  color: black;
+  padding: 1px 1px;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  margin-left: 5px;
+
+}
+
+.btn-buy{
+  width: 120px;
+  border-radius: 7px;
+  border-color: black;
+  color: black;
+  padding: 4px 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  background: #eee;
+  border: 0;
+}
+.btn-buy:hover{
+  background: #999;
+}
+
+.thumbnail>img{
+  width: 160px;
+  height: 230px;
+}
+
+.thumbnail{
+  /* background-color: #afaeae; */
+    box-shadow: 1px 2px 2px #999;
+}
+
+
+.caption{
+  text-align: center;
+}
+
+
+.sidenav {
+    
+    height: 100%;
+    width: 120px; 
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #d3d3d3;
+    overflow-x: hidden;
+    padding-top: 60px;
+}
+
+
+.sidenav {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 0px;
+}
+
+.profile{
+    background: #f2f2f2;
+border-top: 1px solid #ddd;
+border-bottom: 1px solid #ddd;
+}
+
+.btn-rm{
+  float: right;
+}
+
+.btn-rm:hover{
+  background: red;
+}

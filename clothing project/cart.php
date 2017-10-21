@@ -14,7 +14,7 @@
   ?>
   <script src="js/cart.js"></script>
 </head>
-<link rel="stylesheet" href="css/admin.css" media="screen" title="no title">
+<link rel="stylesheet" href="css/admin.css" media="screen" title="No title">
 <body>
 
 <?php
@@ -42,7 +42,6 @@
               <td width="50px"><img src="uploads/<?php echo $row['item_id']?>.jpg" class="img-responsive" width="30px" height="30px"></td>
               <td width="120px"><?php echo $row1['price']; ?> <button style="margin-right:10%;" class="btn-rm" type="button" name="button" onclick="remove(<?php echo $row['item_id']?>)">Remove</button></td>
          </tr>
-         <!-- <button type="button" name="button">Remove</button> -->
          <?php
  }
  }
